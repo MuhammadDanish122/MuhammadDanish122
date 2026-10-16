@@ -4,7 +4,7 @@ Nearly 9 years in data. MS Computer Science, University of Eastern Finland. I've
 
 <p align="center">
 <a href="mailto:daneshrana45@gmail.com"><img src="https://img.shields.io/badge/Email-daneshrana45%40gmail.com-0a0e1a?style=for-the-badge&logo=gmail&logoColor=7aa2ff"></a>
-<a href="https://www.linkedin.com/in/danish-rajput/"><img src="https://img.shields.io/badge/LinkedIn-Danish-0a66c2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/danish-r-37bb85141/"><img src="https://img.shields.io/badge/LinkedIn-Danish-0a66c2?style=for-the-badge&logo=linkedin"></a>
 <a href="https://muhammaddanish122.github.io"><img src="https://img.shields.io/badge/Portfolio-visit-3ddc97?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </p>
 
